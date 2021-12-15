@@ -1,0 +1,5 @@
+﻿  Lab_8_4.c
+D:\source\repos\Lab_8_4\Lab_8_4\Lab_8_4.c(87,43): warning C4244: функция: преобразование "double" в "long", возможна потеря данных
+D:\source\repos\Lab_8_4\Lab_8_4\Lab_8_4.c(112,40): warning C4244: функция: преобразование "double" в "long", возможна потеря данных
+D:\source\repos\Lab_8_4\Lab_8_4\Lab_8_4.c(118,40): warning C4244: функция: преобразование "double" в "long", возможна потеря данных
+  Lab_8_4.vcxproj -> D:\source\repos\Lab_8_4\x64\Debug\Lab_8_4.exe
